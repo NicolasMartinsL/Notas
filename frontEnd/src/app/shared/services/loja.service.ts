@@ -31,6 +31,7 @@ export class LojaService {
   getNotas(): Observable<Nota[]> {
     return this.httpClient.get<Nota[]>('src/assets/Notas.json');
   }
+
   getProducts(){
     return produtos;
   }

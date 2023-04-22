@@ -4,6 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/backEnd/NotasFiscais.iml" filepath="$PROJECT_DIR$/backEnd/NotasFiscais.iml" />
       <module fileurl="file://$PROJECT_DIR$/frontEnd/frontEnd.iml" filepath="$PROJECT_DIR$/frontEnd/frontEnd.iml" />
+<<<<<<< HEAD
+=======
+      <module fileurl="file://$PROJECT_DIR$/../../larissaSilva/crud-loja-ficticia-java-angular/back-end/loja.ficticia.iml" filepath="$PROJECT_DIR$/../../larissaSilva/crud-loja-ficticia-java-angular/back-end/loja.ficticia.iml" />
+>>>>>>> 4e6b53a6f505f00a88548be8734c0adac3ff0e0f
     </modules>
   </component>
 </project>
