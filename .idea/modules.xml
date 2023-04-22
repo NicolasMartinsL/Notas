@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Notas.iml" filepath="$PROJECT_DIR$/.idea/Notas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backEnd/NotasFiscais.iml" filepath="$PROJECT_DIR$/backEnd/NotasFiscais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frontEnd/frontEnd.iml" filepath="$PROJECT_DIR$/frontEnd/frontEnd.iml" />
     </modules>
   </component>
 </project>
